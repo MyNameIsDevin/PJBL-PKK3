@@ -1,0 +1,142 @@
+@font-face {
+    font-family: bagus;
+    src: url(./bagas.ttf) format("truetype");
+}
+
+@font-face {
+    font-family: deva;
+    src: url(./dava.ttf) format("truetype");
+}
+
+#Kel4 {
+    color: white;
+    margin-top: 8px;
+}
+
+#nav-logo {
+    display: flex;
+    gap: 1rem;
+    margin-top: 4px;
+    margin-left: 4px;
+}
+
+#judul-1 {
+    text-align: center;
+    padding-top: 50px;
+}
+
+#latar-belakang {
+    background-color: rgb(192, 192, 192);
+    padding-bottom: 1rem;
+    padding-top: 4rem;
+}
+
+#judul-1 #latar-belakang-judul-1 {
+    font-size: 40px;
+    font-family: bagus;
+
+}
+
+#latar-belakang-col {
+    padding-top: 20px;
+    padding-bottom: 30px;
+    font-family: deva;
+    font-size: 25px;
+}
+
+#semua-col {
+    gap: 10px;
+}
+
+#col-1 {
+    background-color: rgb(205, 205, 205);
+    padding-top: 2rem;
+    padding-bottom: 5rem;
+    border-radius: 9px;
+    transition: all .1s;
+}
+
+#col-1:hover {
+    background-color: rgb(227, 227, 227);
+}
+
+#col-2 {
+    background-color: rgb(205, 205, 205);
+    padding-top: 2rem;
+    transition: all .1s;
+    border-radius: 9px;
+}
+
+#col-2:hover {
+    background-color: rgb(227, 227, 227);
+}
+
+#col-3 {
+    background-color: rgb(205, 205, 205);
+    padding-top: 2rem;
+    transition: all .1s;
+    padding-bottom: 10rem;
+    border-radius: 9px;
+}
+
+#col-3:hover {
+    background-color: rgb(227, 227, 227);
+}
+
+.rumusan-masalah {
+    background-color: rgb(192, 192, 192);
+}
+
+#rumusan-masalah {
+    font-family: bagus;
+    background-color: rgb(251, 226, 226);
+
+}
+
+#rumusan-masalah-isi {
+    font-family: deva;
+    font-size: 20px;
+}
+
+#Jangkauan-Pelaksanaan-Kegiatan {
+    font-family: bagus;
+    background-color: rgb(251, 226, 226);
+}
+
+#Jangkauan-Pelaksanaan-Kegiatan-Isi {
+    font-family: deva;
+    font-size: 20px;
+}
+
+#accordion-1 {
+    margin: 0 10rem;
+    background-color: rgb(231, 231, 231);
+}
+
+#accordion-2 {
+    margin: 0 10rem;
+    background-color: rgb(231, 231, 231);
+}
+
+.accordion {
+    padding-bottom: 10rem;
+    
+    
+}
+
+#cuma-pembatas {
+    border-bottom: 1px;
+    border-style:dotted;
+    background-color: black;
+}
+
+.hanya-itu {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    
+}
+
+.hi-1 {
+    font-family: bagus;
+}
